@@ -1,0 +1,8 @@
+priority 50
+url contains .exe/.dll/.pdf 5
+url ends .exe/.dll/.pdf 15
+domain drweb 50
+as contains 666 50
+iso contains US -10
+iso contains RU 10
+iso contains CN/TW -30
